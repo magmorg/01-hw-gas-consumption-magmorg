@@ -10,7 +10,7 @@
 
 ---
 
-### Name: Maggie Morgan
+### Name: Maggie Morgan 
 
 ### Email: mm570417@ohio.edu
 

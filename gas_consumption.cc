@@ -18,11 +18,11 @@ int main(int argc, char const *argv[]) {
    cin >> miles_t;
    cout << "Enter the number of miles driven on the highway: ";
    cin >> miles_h;
-      gas_t = miles_t / (22.5);
-      gas_h = miles_h / (29.5);
-      total_mi = miles_t + miles_h;
-      total_g = gas_t + gas_h;
-      average_mpg = total_mi / total_g;
+   gas_t = miles_t / (22.5);
+   gas_h = miles_h / (29.5);
+   total_mi = miles_t + miles_h;
+   total_g = gas_t + gas_h;
+   average_mpg = total_mi / total_g;
    cout << "---------------Gas Consumption---------------" << endl;
    cout << "The number of miles driven in town: " << miles_t << " miles" << endl;
    cout << "The gas consumption for town driving: " << gas_t << " gallons" << endl;

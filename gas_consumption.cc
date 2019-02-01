@@ -2,7 +2,7 @@
  *        File: gas_consumption.cc
  *      Author: Maggie Morgan
  *        Date: 1/31/19
- * Description: This program evaluates the amount of gas consumption in various situations.
+ * Description: This program evaluates the amount of gas consumption in various situations and gives values based on input submissions.
  *
  */
 
